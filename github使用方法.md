@@ -56,10 +56,10 @@
    git commit -m "update”
    ```
 
-   7）真正的push到远端的仓库中，第一次上传会任务中断，然后让你先输入要上传的帐号之后才能继续上传
+   7）真正的push到远端的仓库中，第一次上传会任务中断，然后让你先输入要上传的帐号之后才能继续上传，main指的是分支。
 
    ```
-   git push origin master
+   git push origin main
    ```
 
 3. 如何新建分支
